@@ -1,0 +1,54 @@
+Fácil:
+1.Convertir temperatura de Celsius a Fahrenheit
+2.Suma de dos números
+3.Resta de dos números
+4.Multiplicación de dos números
+5.División de dos números
+6.Conversión de ASCII a entero
+7.Conversión de entero a ASCII
+8.Calcular la longitud de una cadena
+9.Suma de elementos en un arreglo
+10.Leer entrada desde el teclado
+Intermedia:
+11.Suma de los N primeros números naturales
+12.Factorial de un número
+13.Serie de Fibonacci
+14.Verificar si un número es primo
+15.Invertir una cadena
+16.Verificar si una cadena es palíndromo
+17.Encontrar el máximo en un arreglo
+18.Encontrar el mínimo en un arreglo
+19.Búsqueda lineal
+20.Ordenamiento burbuja
+21.Ordenamiento por selección
+22.Ordenamiento por mezcla (Merge Sort)
+23.Suma de matrices
+24.Transposición de una matriz
+25.Contar vocales y consonantes
+26.Operaciones AND, OR, XOR a nivel de bits
+27.Desplazamientos a la izquierda y derecha
+28.Establecer, borrar y alternar bits
+29.Contar los bits activados en un número
+30.Máximo Común Divisor (MCD)
+31.Mínimo Común Múltiplo (MCM)
+32.Potencia (x^n)
+33.Implementar una cola usando un arreglo
+34.Invertir los elementos de un arreglo
+35.Rotación de un arreglo (izquierda/derecha)
+36.Encontrar el segundo elemento más grande
+37.Convertir decimal a binario
+38.Convertir binario a decimal
+39.Conversión de decimal a hexadecimal
+40.Conversión de hexadecimal a decimal
+41.Calculadora simple (Suma, Resta, Multiplicación, División)
+42.Generación de números aleatorios (con semilla)
+43.Verificar si un número es Armstrong
+44.Encontrar prefijo común más largo en cadenas
+45.Detección de desbordamiento en suma
+46.Escribir en un archivo
+Difícil:
+47.Búsqueda binaria
+48.Medir el tiempo de ejecución de una función
+49.Multiplicación de matrices
+50.Implementar una pila usando un arreglo
+
